@@ -1,37 +1,13 @@
-## Welcome to GitHub Pages
+<html><head>
+<title>Tea making</title></head>
+<body>
 
-You can use the [editor on GitHub](https://github.com/ashlin1111/ashlin/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ashlin1111/ashlin/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+<b> <font size="5" color="grey">How to make tea?</font></b><br/><br/>
+<b>Step 1:&nbsp;&nbsp;&nbsp;&nbsp;</b>Boil water.<br/>
+<b>Step 2:&nbsp;&nbsp;&nbsp;&nbsp;</b>Warm up teapot.<br/>
+<b>Step 3:&nbsp;&nbsp;&nbsp;&nbsp;</b>Put tea into teapot and add hot water.<br/>
+<b>Step 4:&nbsp;&nbsp;&nbsp;&nbsp;</b>Cover teapot and steep tea.<br/>
+<b>Step 5:&nbsp;&nbsp;&nbsp;&nbsp;</b>Strain tea solids and pour hot tea into tea cups.<br/>
+<b>Step 6:&nbsp;&nbsp;&nbsp;&nbsp;</b>Enjoy the tea with a smile.<br/>
+</body>
+</html>
